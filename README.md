@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferreirav
-- 👀 I’m interested in Computational Methods for Ecology
+- 👀 I’m interested in Ecology and Computational Methods
 - 🌱 I’m currently learning programming languages and I am passionate about DataViz
-- 💞️ I’m looking to collaborate on any project or initiative with a multidisciplinary scope that can bring exciting challenges and discoveries
+
 
 
 <!---
