@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ferreirav
-- 👀 I’m interested in Ecology and Computational Methods
-- 🌱 I’m currently learning programming languages and I am passionate about DataViz
+- 👋 Hi there, my name is Vitor Ferreira
+- 👀 I’m a ecologist with strong interest and enthusiams for data science, computation and data vizualization
+- 🌱 I’m currently learning programming languages as well workflow managers
 
 
 
