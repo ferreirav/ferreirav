@@ -89,7 +89,7 @@ Elements and icons sourced from https://www.sitepoint.com/github-profile-readme/
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirav&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
