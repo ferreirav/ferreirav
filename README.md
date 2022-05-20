@@ -1,3 +1,8 @@
+<!---
+Elements and icons sourced from https://www.sitepoint.com/github-profile-readme/
+--->
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HBQOKd1LZxOp2t9p3j/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="100"/>
@@ -88,10 +93,7 @@
 
 <br>
 
----
-
-## Blog Actions
-
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
+<!---
+For blog post workflow follow this page
+https://github.com/marketplace/actions/blog-post-workflow#popular-sources
+--->
